@@ -1,0 +1,21 @@
+
+@import "scss/abstracts/functions";
+@import "scss/abstracts/mixins";
+@import "scss/abstracts/variables";
+
+@import "node_modules/bootswatch/dist/flatly/variables";
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "node_modules/bootswatch/dist/flatly/bootswatch";
+
+@import "scss/base/animations";
+@import "scss/base/base";
+@import "scss/base/typography";
+@import "scss/base/utilities";
+
+@import "app";
+@import "scss/layout/navbar";
+@import "scss/layout/breadcrumb";
+@import "scss/layout/sidebar";
+@import "scss/layout/footer";
+
+@import "scss/components/card";

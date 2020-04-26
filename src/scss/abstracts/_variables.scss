@@ -1,0 +1,22 @@
+$default-font-size: 1.6rem;
+
+$color-primary: #20a8d8;
+$color-secondary: #18BC9C;
+
+$color-grey-dark: #8d9194;
+$color-grey-dark-2: #2f353a;
+$color-grey-dark-3: #3a4248;
+$color-white: #fff;
+$color-black: #000;
+$color-grey-light-1: #f7f7f7;
+$color-grey-light-2: #e4e7ea;
+$color-grey-light-3: #948484;
+$color-border-light: #c8ced3;
+
+$border-solid-1: 1px solid $color-border-light;
+
+//RESPONSIVE BREAKPOINTS
+$bp-largest: 75em; // 1200px / 16 = 75
+$bp-large: 62.5em; // 1000px / 16 = 62.5
+$bp-medium: 50em; // 800px / 16 = 50
+$bp-small: 37.5em; // 600px / 16 = 37.5
